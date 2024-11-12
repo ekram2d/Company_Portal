@@ -1,0 +1,11 @@
+/* customToast.css */
+.custom-toast {
+    background-color: greenyellow; /* Primary color for background */
+    color:black; /* Text color */
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
